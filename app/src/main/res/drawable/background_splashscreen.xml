@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--10118325 8/4/2021-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+            android:src="@drawable/world"
+            android:gravity="center"
+            android:top="100dp"/>
+    </item>
+
+
+</selector>
